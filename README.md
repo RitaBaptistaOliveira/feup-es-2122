@@ -1,6 +1,6 @@
 # FEUP ES Project - Interactive FEUP map
 
-_Final Grade:_ 18.9
+__Final Grade:__ 18.9
 
 Welcome to the documentation pages of the _Interactive FEUP Map_
 
